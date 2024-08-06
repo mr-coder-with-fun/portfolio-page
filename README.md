@@ -27,8 +27,8 @@ https://portfolio-templet12.netlify.app <br>
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 
 [linkedin-url]:#
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]:#
-[javascrip-shield]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[javascrip-url]:#
+[twitter-url]: #
+[javascrip-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascrip-url]: #
  
 
