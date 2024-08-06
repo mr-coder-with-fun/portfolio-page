@@ -5,6 +5,7 @@ its my portfolio templet
 <h1> visite hear---</h1><br>
 https://portfolio-templet12.netlify.app <br>
 
+![Stargazers](https://img.shields.io/github/stars/yavuzyigitmuhammetali/MERN-Instagram-Clone?style=social)
 
 <!--
 
