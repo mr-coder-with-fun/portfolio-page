@@ -6,3 +6,13 @@ its my portfolio templet
 <br>
 <h1> visite hear---</h1><br>
 https://portfolio-templet12.netlify.app
+
+
+
+
+
+<br>
+<br>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+
