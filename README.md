@@ -10,7 +10,7 @@ https://portfolio-templet12.netlify.app <br>
 
 
 
-![JavaScript][javascript-shield][javascrip-url]
+[![JavaScript][javascript-shield]][javascrip-url]
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
