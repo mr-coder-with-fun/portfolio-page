@@ -6,7 +6,7 @@ its my portfolio templet
 https://portfolio-templet12.netlify.app <br>
 
 
-
+<!--
 
 
 
@@ -16,7 +16,7 @@ https://portfolio-templet12.netlify.app <br>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<br>
+--> <br>
 
 
 
